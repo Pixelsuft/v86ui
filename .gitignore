@@ -1,0 +1,15 @@
+debug
+release
+out
+assets
+x86
+x86
+.idea
+__pycache__
+node_modules
+package-lock.json
+*.log
+backups
+backup
+build
+copy_winnt.img
